@@ -1,4 +1,4 @@
-package log
+package gologger
 
 import "net/http"
 

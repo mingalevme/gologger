@@ -1,4 +1,4 @@
-package log
+package gologger
 
 import (
 	"github.com/sirupsen/logrus"
